@@ -5,6 +5,8 @@
   "editor.formatOnSave": false,
   "standard.enable": false,
   "cSpell.words": [
+    "dtos",
+    "middlewares",
     "Signup"
   ]
 }
